@@ -1,4 +1,4 @@
-# sell
+# 高仿饿了吗外卖APP
 
 > sell app
 
@@ -14,8 +14,22 @@ npm run dev
 # build for production with minification
 npm run build
 
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## dependencies
+
+```
+	"better-scroll": "^1.11.1",
+	"express": "^4.16.3",
+	"vue": "^2.5.2",
+	"vue-resource": "^1.5.1",
+	"vue-router": "^3.0.1"
+```
+
+## Design sketch
+
+<p align="center">
+  <img src="readmeImage/home.gif" width="300" alt="RetroSnaker" />
+  <img src="readmeImage/ratings.gif" width="300" alt="RetroSnaker" />
+  <img src="readmeImage/seller.gif" width="300" alt="RetroSnaker" />
+</p>
