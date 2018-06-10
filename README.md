@@ -19,17 +19,18 @@ npm run build
 ## dependencies
 
 ```
-	"better-scroll": "^1.11.1",
-	"express": "^4.16.3",
-	"vue": "^2.5.2",
-	"vue-resource": "^1.5.1",
-	"vue-router": "^3.0.1"
+"better-scroll": "^1.11.1",
+"express": "^4.16.3",
+"vue": "^2.5.2",
+"vue-resource": "^1.5.1",
+"vue-router": "^3.0.1"
 ```
 
 ## Design sketch
 
 <p align="center">
-  <img src="readmeImage/home.gif" width="300" alt="RetroSnaker" />
-  <img src="readmeImage/ratings.gif" width="300" alt="RetroSnaker" />
-  <img src="readmeImage/seller.gif" width="300" alt="RetroSnaker" />
+  <img src="readmeImage/elem.png" width="375"/>
+  <img src="readmeImage/home.gif" width="375"/>
+  <img src="readmeImage/ratings.gif" width="375"/>
+  <img src="readmeImage/seller.gif" width="375"/>
 </p>
